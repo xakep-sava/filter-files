@@ -1,0 +1,22 @@
+{
+  "name": "filter-files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xakep-sava/filter-files.git"
+  },
+  "author": "Vladimir Savrov <vs@sava.site>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xakep-sava/filter-files/issues"
+  },
+  "homepage": "https://github.com/xakep-sava/filter-files#readme",
+  "dependencies": {
+    "csv-parser": "^2.1.0"
+  }
+}
